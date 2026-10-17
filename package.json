@@ -1,0 +1,10 @@
+{
+  "name": "what-helps-students-like-me",
+  "version": "1.0.0",
+  "private": true,
+  "description": "PISA 2025 Ukraine: interactive tool showing what helps students like me, with an anonymous stats backend",
+  "scripts": {
+    "dev": "PISA_MEMORY_STORE=1 node dev-server.js"
+  },
+  "engines": { "node": ">=18" }
+}
